@@ -1,0 +1,10 @@
+index.html        # from where you can navigate to the solutions
+SmartCity-AR/     # directory for the AR lab solutions
+    task1.html    # solution of the first task (you can have any name for the html file)
+    task2.html    # solution of the second task
+    task3.html    # solution of the third task
+    ...           # other HTML pages
+    assets/       # images, markers, object files
+    js/           # external JavaScript codes
+    styles/       # stylesheets
+    ...           # anything else
